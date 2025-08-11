@@ -9,12 +9,11 @@ Through bar chart we can see the biases shows in sub-group distribution of gende
 
 # Bias Mitigation
 <img width="1207" height="353" alt="image" src="https://github.com/user-attachments/assets/e25ad879-d55c-4646-9f6f-8d73393dfa01" />
-Based on minimum amount both in female and male group, 85 was chosen to overcome the gender bias
 <img width="1226" height="851" alt="image" src="https://github.com/user-attachments/assets/7757020c-8bbf-48d1-b02f-5e63a71c6327" />
-The new result was 4.81%
+Based on minimum amount both in female and male group, 85 was chosen to overcome the gender bias. The new result was 4.81%.
 
 # Recommendation
 Based on the latest results, which provide a more accurate injury risk rating, it is advisable to re-assess the car to ensure its safety.
 
-Link to full DeepNote available in sorce code file
+Link to full DeepNote available in sorce code file.
 
