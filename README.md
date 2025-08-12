@@ -15,5 +15,5 @@ Based on minimum amount both in female and male group, 85 was chosen to overcome
 # Recommendation
 Based on the latest results, which provide a more accurate injury risk rating, it is advisable to re-assess the car to ensure its safety.
 
-Link to full demonstration available in sorce code file.
+Link to full demonstration: https://deepnote.com/workspace/Acme-d1d78ccd-070a-4b0c-a006-a5677a5779c9/project/The-IT-Girls-Bootcamp-9b44a919-ff6d-45a8-bad5-0f9dd1316c8e/notebook/demo-701d54f4e2c3431dad07633ad6a1c34e?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=9b44a919-ff6d-45a8-bad5-0f9dd1316c8e
 
